@@ -1,0 +1,28 @@
+name: Ninamel
+favicon: null
+layout_spectrum: 0.9534454997628927
+typography_spectrum: 0.5128088246565312
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ddd5cb'
+    - '#997765'
+    - '#343436'
+    - '#bd984f'
+    - '#545857'
+  brandStrength: 0.9375
+  lightness: 0.9001341059338301
+  saturation: 0.29279596800915897
+  rhythmicContrast: 0.3230717882979661
+purpose: []
